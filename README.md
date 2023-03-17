@@ -1,7 +1,7 @@
 # Few-shot-DIA-WACV2023
 Official and updated Pytorch implementation of the WACV2023 paper: [Efficient few-shot learning for pixel-precise handwritten document layout analysis"](https://ieeexplore.ieee.org/document/10030489)
 
-# Updated Results
+# Updated Quantitative Results - Diva-HisDB Dataset
 <table>
   <tr>
     <td>/</td>
@@ -41,3 +41,7 @@ Official and updated Pytorch implementation of the WACV2023 paper: [Efficient fe
 
 </table>
 
+# Qualitative Results
+<img src="qualitative%20results2.jpg" alt= “” width=80% height=80%>
+
+<img src="wacv%20pipeline%20new2.jpg" alt= “” width=80% height=80%>
